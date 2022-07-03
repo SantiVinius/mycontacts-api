@@ -14,8 +14,9 @@ Após entender como funciona o node, sem nenhum framework, desenvolvemos uma API
 ### Tecnologias 
 
 * [NodeJS](https://nodejs.org/en/)
+* [Express](https://expressjs.com/pt-br/)
 * [Docker](https://www.docker.com/)
 * [PostgresSQL](https://hub.docker.com/_/postgres)
-* [Express](https://expressjs.com/pt-br/)
+
 
 #### Projeto em desenvolvimento...
