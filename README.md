@@ -9,7 +9,7 @@ Nele é possível criar, listar, editar e deletar contatos. Para cadastrar um co
 
 ## API
 
-Após entender como funciona o node, sem nenhum framework, desenvolvemos uma API para criar, listar, editar e deletar um registro, usando Node com Express.
+API desenvolvida para criar, listar, editar e deletar um registro, usando Node e Express.
 
 ### Tecnologias 
 
